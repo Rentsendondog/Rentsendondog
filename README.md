@@ -1,6 +1,6 @@
 ### Welcome to My Github 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=[Rentsendondog]" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rentsendondog&layout=compact" />
 
 
