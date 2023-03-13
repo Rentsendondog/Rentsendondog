@@ -1,6 +1,6 @@
 ### Welcome to My Github 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rentsendondog&count_private=true&theme=merko" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rentsendondog&count_private=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rentsendondog&layout=compact" />
 
 
