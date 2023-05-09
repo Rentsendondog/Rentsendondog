@@ -1,7 +1,7 @@
 ### Welcome to My Github 
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=Rentsendondog&count_private=true&theme=radical" />
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rentsendondog&theme=radical&include_all_commits=true&count_private=false&layout=compact" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rentsendondog&count_private=true&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rentsendondog&theme=radical&include_all_commits=true&count_private=false&layout=compact" />
 
 
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
